@@ -1,0 +1,10 @@
+<!--Update the package name in the category tag below and then add the below inside the application tag in your android application manifest.xml file-->
+<receiver
+    android:name=".push_notification.GcmBroadcastReceiver"
+    android:permission="com.google.android.c2dm.permission.SEND" >
+    <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <category android:name="com.example.your.package" />
+    </intent-filter>
+</receiver>
+<service android:name=".push_notification.GcmIntentService" />
