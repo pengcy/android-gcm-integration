@@ -14,7 +14,7 @@
 
 6. Follow the README.MD in the java folder in this repo.
 
-7. Follow the READMe.Md in the gradle folder in this repo.
+7. Follow the README.MD in the gradle folder in this repo.
 
 8. Install and run your Android app on a device.
 
