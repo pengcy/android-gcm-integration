@@ -10,3 +10,6 @@ The other 3 java files should be put in a folder push_notification under your ro
 In **GcmIntentService.java**, look for strings containing "your.package", replace it with your package name.<br>
 
 In **GcmRegistrationAsyncTask.java**, look for the variable SENDER_ID, replace the question marks with the project number which can be found from your google developer console. And look for the url https://yourapp-5d8df.appspot.com/ and replace it with your google clouding messaging console url.
+
+
+After these java classes are added, you will have to fix some import issues.

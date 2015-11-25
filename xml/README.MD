@@ -4,3 +4,4 @@ In **add_this_to_manifest.xml**, copy the content, update the package name in th
 * This file is auto generated when you create the backend module for gcm in Android Studio.
 * The application tag needs the project ID which you can find from google developer console.
 * The property tab gcm.api.key is the app engine server key which need to be created from google developer console.
+* To create a new project in google developer console for cloud messaging app engine, go to https://console.developers.google.com/flows/enableapi?apiid=googlecloudmessaging&keyType=SERVER_SIDE&r=0.0.0.0/0

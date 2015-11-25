@@ -19,3 +19,5 @@
 8. Install and run your Android app on a device.
 
 9. Go to your Google Cloud Message console (ex: https://yourapp-id.appspot.com/) and send a push notification message, and expect that to be received from your device. It doesn't work on emulators.
+
+10. **For visual guidances, see screen captures in the images folder.**
