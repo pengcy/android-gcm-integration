@@ -1,9 +1,9 @@
 # Google Cloud Messaging Integration for Android
 ### prerequisites:
-+ You know how to create a basic app in Android Studio.
-+ You know how to fix import issues and modify codes in Java.
-+ You have an android device to run the app, simulator doesn't work for gcm.
-+ You have a google account.   
+<ul><li>You know how to create a basic app in Android Studio.</li>
+<li>You know how to fix import issues and modify codes in Java.</li>
+<li>You have an android device to run the app, simulator doesn't work for gcm.</li>
+<li>You have a google account.</li></ul>
 
 1. Create google cloud messaging backend module in your Android app.
 
